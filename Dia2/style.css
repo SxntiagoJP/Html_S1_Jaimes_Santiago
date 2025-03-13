@@ -1,0 +1,28 @@
+.mine {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left:50px;
+    object-position: center;
+    
+}
+.All{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.information{
+    background-color: whitesmoke;
+    border: 3px solid black; 
+    padding: 10px;
+    margin: 10px;
+}
+
+.certificados{
+    background-color: whitesmoke;
+    border: 3px solid black; 
+    padding: 10px;
+    margin: 10px;
+}
