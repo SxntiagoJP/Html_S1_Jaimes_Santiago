@@ -30,6 +30,7 @@
 .col1 {
     border: 2px solid black;
     text-align: center;
+    vertical-align: top;
 }
 
 .col2 {
