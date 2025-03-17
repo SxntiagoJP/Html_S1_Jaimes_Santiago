@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    background-color: black;
+}
+
+body {
+    background-color: black;
+    margin: 0;  
+    width: 1918px;
+    height: 4149px;
+}
+.fondo {
+    position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 130%; 
+    height: auto; 
+}
+
+.Prime {
+    display: block; 
+    margin: 150px auto; 
+    top: 227px;
+    left: 682px;
+    width: 556px;
+    height: 313px;
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    line-height: 72px;
+    color: #ffffff;
+    opacity: 1;
+    position: absolute;
+    top: 387px;
+    left: 380px;
+    width: 1151px;
+    height: 60px;
+}       
+
+.info {
+    font-weight: normal;
+    font-size: 30px;
+    text-align: center;
+    line-height: 36px;
+    color: #ffffff;
+    position: absolute;
+    top: 488px;
+    left: 380px;
+    width: 1160px;
+    height: 102px;
+}
+
+.buscador {
+    position: absolute;
+    top: 37px;
+    left: 63px;
+    width: 36px;
+    height: 36px;
+}
+
+.login {
+    position: absolute;
+    top: 30px;
+    left: 1685px;
+    width: 205px;
+    height: 54px;
+    background-color: white;
+    color: black;
+    border: 2px solid #ccc;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.registro {
+    position: absolute;
+    top: 635px;
+    left: 730px;
+    width: 458px;
+    height: 104px;
+    background-color: white;
+    color: black;
+    border: 2px solid #ccc;
+    border-radius: 52px;
+    font-size: 40px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.primeraCaja {
+    position: absolute;
+    top: 1106px;
+    left: 64px;
+    width: 1792px;
+    height: 567px;
+}
+
+.segundaCaja {
+    position: absolute;
+    top: 1717px;
+    left: 64px;
+    width: 1792px;
+    height: 724px;
+    background-color: #00A8E1;
+    border-radius: 108px;
+}
+
+.textoUnoCajaDos {
+    position: absolute;
+    top: 16px;
+    left: 71px;
+    width: 1664px;
+    height: 60px;   
+    font-size: 60px;
+    text-align: left;
+    line-height: 36px;
+    color: #ffffff;
+}
+
+.peliculaUno {
+    position: absolute;
+    top: 179px;
+    left: 413px;
+    width: 181px;
+    height: 309px;
+    border: 1px solid gray;
+}
+
+.peliculaDos {
+    position: absolute;
+    top: 179px;
+    left: 606px;
+    width: 181px;
+    height: 309px;
+    border: 1px solid gray;
+}
+
+.peliculaTres {
+    position: absolute;
+    top: 179px;
+    left: 799px;
+    width: 181px;
+    height: 309px;
+    border: 1px solid gray;
+}
+
+.peliculaCuatro {
+    position: absolute;
+    top: 179px;
+    left: 991px;
+    width: 181px;
+    height: 309px;
+    border: 1px solid gray;
+}
+
+.peliculaCinco {
+    position: absolute;
+    top: 179px;
+    left: 1184px;
+    width: 181px;
+    height: 309px;
+    border: 1px solid gray;
+}
+
+.textoDosCajaDos {
+    position: absolute;
+    width: 1492px;
+    height: 110px;
+    top: 510px;
+    left: 143px;
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+    line-height: 60px;
+    color: #ffffff;
+}
+
+.terceraCaja {
+    position: absolute;
+    top: 2467px;
+    left: 64px;
+    width: 1792px;
+    height: 567px;
+    background-color: #00A8E1;
+    border-radius: 108px;
+}
