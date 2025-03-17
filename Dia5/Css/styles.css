@@ -27,6 +27,7 @@ body {
 }
 
 h1 {
+    font-family: 'Amazon Ember', sans-serif ;
     font-size: 60px;
     text-align: center;
     line-height: 72px;
@@ -37,6 +38,7 @@ h1 {
     left: 380px;
     width: 1151px;
     height: 60px;
+    background-color: transparent;
 }       
 
 .info {
@@ -107,6 +109,9 @@ h1 {
 }
 
 .textoUnoCajaDos {
+
+    font-family: 'Amazon Ember', sans-serif ;
+    background-color: transparent;
     position: absolute;
     top: 16px;
     left: 71px;
@@ -164,6 +169,8 @@ h1 {
 }
 
 .textoDosCajaDos {
+    font-family: 'Amazon Ember', sans-serif ;
+    background-color: transparent;
     position: absolute;
     width: 1492px;
     height: 110px;
