@@ -42,6 +42,7 @@ h1 {
 }       
 
 .info {
+    background-color: transparent;
     font-weight: normal;
     font-size: 30px;
     text-align: center;
@@ -63,6 +64,7 @@ h1 {
 }
 
 .login {
+   
     position: absolute;
     top: 30px;
     left: 1685px;
@@ -191,4 +193,67 @@ h1 {
     height: 567px;
     background-color: #00A8E1;
     border-radius: 108px;
+}
+.textoUnoCajaTres{
+    position: absolute;
+    background-color: transparent;
+    left: 500px;
+    top: 40px;
+}
+.cancel{
+    position: absolute;
+    background-color: transparent;
+    left: 45%;
+    top: 200px;
+}
+
+.textoDosCajaTres{
+    position: absolute;
+    background-color: transparent;
+    left: 11%;
+    top: 430px;
+
+}
+.dispositivos{
+    position: absolute;
+    background-color: transparent;
+    left: 20%;
+    top: 320%;
+}
+
+.textoDispositivos{
+    position: absolute;
+    background-color: transparent;
+    left: 11%;
+    top: 337%;
+
+}
+
+.iphone{  position: absolute;
+    background-color: transparent;
+    left: 20%;
+    top: 370%;
+
+}
+
+.mac{
+    position: absolute;
+    background-color: transparent;
+    left: 20%;
+    top: 360%;
+    left: 36%;
+}
+
+.PC{
+    position: absolute;
+    background-color: transparent;
+    left: 68%;
+    top: 370%;
+}
+
+.terminos{
+    position: absolute;
+    background-color: transparent;
+    left: 30%;
+    top: 430%;
 }
