@@ -63,8 +63,8 @@
     width: 27px;
     height: 27px;
 }
- 
-.carrito{
+
+.carrito {
     position: absolute;
     top: 200px;
     left: 1440px;
@@ -74,7 +74,7 @@
 
 
 
-.comprar{
+.comprar {
     font-family: 'Open Sans', sans-serif;
     position: absolute;
     top: 830px;
@@ -82,7 +82,7 @@
 
 }
 
-.textouno{
+.textouno {
     font-family: 'Open Sans', sans-serif;
     position: absolute;
     font-size: 40px;
@@ -90,14 +90,14 @@
     left: 260px;
 }
 
-.textodos{
+.textodos {
     font-family: 'Open Sans', sans-serif;
     position: absolute;
     top: 830px;
     left: 265px;
 }
 
-.hvinculo{
+.hvinculo {
     font-family: 'Open Sans', sans-serif;
     font-size: 35px;
     position: absolute;
@@ -105,7 +105,8 @@
     left: 1140px;
     color: black;
 }
-.cpratjta{
+
+.cpratjta {
     font-family: 'Open Sans', sans-serif;
     font-size: 35px;
     position: absolute;
@@ -113,32 +114,122 @@
     left: 840px;
 }
 
-.flechauno{
+.flechauno {
     position: absolute;
     top: 180px;
     left: 1532px;
     font-size: 40px;
 }
 
-.menu{
+.menu {
     position: absolute;
     top: 450px;
     left: 1532px;
     font-size: 40px;
 }
 
-.flechados{
+.flechados {
     position: absolute;
     top: 880px;
     left: 1532px;
     font-size: 40px;
 }
 
-.cantidad{
+.cantidad {
     font-family: 'Open Sans', sans-serif;
     font-size: 24px;
     position: absolute;
     top: 300px;
     left: 1497px;
-    color:white ;
+    color: white;
+}
+
+.miniline {
+    position: absolute;
+    top: 225px;
+    left: 900px;
+    width: 146px;
+    height: 40px;
+    color: black;
+}
+
+.blanco {
+    top: 200px;
+    left: 100px;
+    width: 1400px;
+    height: 800px;
+    /* UI Properties */
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+    margin: -948px 0px 0px 190px;
+}
+
+.negro {
+    top: 200px;
+    left: 1390px;
+    width: 110px;
+    height: 800px;
+    /* UI Properties */
+    background: var(--unnamed-color-212020) 0% 0% no-repeat padding-box;
+    background: #212020 0% 0% no-repeat padding-box;
+    border-radius: 0px 8px 8px 0px;
+    opacity: 1;
+    margin: -800px 0px 0px 1482px;
+}
+
+.verde {
+    top: 847px;
+    left: 1180px;
+    width: 160px;
+    height: 114px;
+    /* UI Properties */
+    background: var(--unnamed-color-d5ff43) 0% 0% no-repeat padding-box;
+    background: #D5FF43 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    opacity: 1;
+    margin: -150px 0px 0px 1270px;
+}
+
+.uno {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 440px;
+    left: 1530px;
+    color: #707070;
+
+}
+
+.dos {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 545px;
+    left: 1530px;
+    color: #ffffff;
+
+}
+
+.tres {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 650px;
+    left: 1530px;
+    color: #707070;
+}
+
+.lineap1 {
+    position: absolute;
+    top: 260px;
+    left: 854px;
+    width: 220px;
+    height: 0px;
+    /* UI Properties */
+    border: 2px solid var(--unnamed-color-212020);
+
+    border: 2px solid #212020;
+    opacity: 1;
 }

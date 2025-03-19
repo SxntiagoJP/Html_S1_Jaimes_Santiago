@@ -164,7 +164,7 @@
     height: 190px;
 }
 
-.saldoesc{
+.saldoesc {
     font-family: 'Open Sans', sans-serif;
     position: absolute;
     top: 620px;
@@ -172,10 +172,112 @@
     font-size: 33px;
 }
 
-.capdos{
+.capdos {
     font-family: 'Open Sans', sans-serif;
     position: absolute;
     top: 770px;
     left: 740px;
     font-size: 36px;
+}
+
+.blancouno {
+    top: 200px;
+    left: 100px;
+    width: 1400px;
+    height: 800px;
+    /* UI Properties */
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+    margin: -948px 0px 0px 190px;
+}
+
+.negrouno {
+    top: 200px;
+    left: 1390px;
+    width: 110px;
+    height: 800px;
+    /* UI Properties */
+    background: var(--unnamed-color-212020) 0% 0% no-repeat padding-box;
+    background: #212020 0% 0% no-repeat padding-box;
+    border-radius: 0px 8px 8px 0px;
+    opacity: 1;
+    margin: -800px 0px 0px 1482px;
+}
+
+.verdeuno {
+    top: 847px;
+    left: 1180px;
+    width: 160px;
+    height: 114px;
+    /* UI Properties */
+    background: var(--unnamed-color-d5ff43) 0% 0% no-repeat padding-box;
+    background: #D5FF43 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    opacity: 1;
+    margin: -150px 0px 0px 1270px;
+}
+
+.tralalelo {
+    top: 799px;
+    left: 595px;
+    width: 288px;
+    height: 58px;
+    /* UI Properties */
+    border: 1px solid #707070;
+    border-radius: 10px;
+    opacity: 1;
+    margin: -120px 0px 0px 690px;
+}
+
+.milki{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 26px;
+    position: absolute;
+    top: 799px;
+    left: 800px;
+    color: rgb(95, 92, 92);
+}
+
+.lineap12 {
+    position: absolute;
+    top: 260px;
+    left: 1150px;
+    width: 135px;
+    height: 0px;
+    /* UI Properties */
+    border: 2px solid var(--unnamed-color-212020);
+
+    border: 2px solid #212020;
+    opacity: 1;
+}
+
+.uno1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 440px;
+    left: 1520px;
+    color: #707070;
+
+}
+
+.dos2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 545px;
+    left: 1520px;
+    color: #ffffff;
+
+}
+
+.tres3 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    position: absolute;
+    top: 650px;
+    left: 1520px;
+    color: #707070;
 }
