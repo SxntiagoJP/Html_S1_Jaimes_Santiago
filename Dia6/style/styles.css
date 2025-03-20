@@ -7,7 +7,7 @@
 }
 
 .cuadro_uno {
-    position: relative;
+    position: absolute;
     top: 130px;
     left: 190px;
     width: 1400px;
