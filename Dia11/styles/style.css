@@ -1,0 +1,60 @@
+body{
+    position: absolute;
+    width: 1980px;
+    height: 1080px;
+    background-image: url(../img/36224.jpg);
+}
+
+.nube{
+  
+    position: relative;
+    animation-delay: 3s;
+    animation: movidita 10s linear infinite;
+    
+}
+
+
+@keyframes movidita{
+    0%{left: 5000px;}
+    50%{left: 1200px;}
+    150%{left: 3000px;}
+    
+    
+}
+
+
+
+.lluvia{
+    position: relative;
+    width: 600px;
+    
+}
+
+.sol{
+    position: relative;
+    width:900px;
+    top: -2700px;
+    left: 3300px;
+    opacity: 20%;
+    animation: brilla 16s linear infinite;
+   
+}
+
+@keyframes brilla{
+    0%{ opacity: 20%;}
+    50%{opacity: 20%;}
+    100%{opacity: 100%;}
+}
+
+.flor{
+    position: relative;
+    top: -2000px;
+    left: 1600px;
+    animation: marimba 5s infinite;
+}
+
+@keyframes marimba{
+    0%{opacity: 100%;}
+    100%{opacity: 0%;}
+
+}
